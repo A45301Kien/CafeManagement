@@ -38,7 +38,7 @@ create table `payment` (
     primary key (`pid`)
 );
 
-select * from cafe.admin;
-select * from cafe.product;
-select * from cafe.cart;
-select * from cafe.payment;
+select * from cafe2.admin;
+select * from cafe2.product;
+select * from cafe2.cart;
+select * from cafe2.payment;
