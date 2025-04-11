@@ -41,4 +41,4 @@ create table `payment` (
 select * from cafe2.admin;
 select * from cafe2.product;
 select * from cafe2.cart;
-select * from cafe2.payment;
+select * from cafe.payment;
