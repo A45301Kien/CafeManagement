@@ -42,4 +42,8 @@ select * from cafe2.admin;
 select * from cafe2.product;
 select * from cafe2.cart;
 select * from cafe4.payment;
+<<<<<<< HEAD
 ALTER TABLE payment MODIFY COLUMN pName VARCHAR(200);
+=======
+
+>>>>>>> d12e6468c171e14df4750bc2693f86135b27e52a
